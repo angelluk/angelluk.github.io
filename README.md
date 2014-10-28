@@ -1,3 +1,3 @@
 angelluk.github.io
 ==================
-My pesonal site
+My personal site
